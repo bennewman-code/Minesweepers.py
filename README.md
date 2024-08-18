@@ -1,0 +1,1 @@
+Hey there just a little project i made its a small minesweeper game i wanted to make it a 3 x 3 and have it so it could tell what squares were connected to the bomb. But didnt have enough time to go into that much depth. Check it out see if you like it!
